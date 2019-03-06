@@ -19,9 +19,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/hanwen/go-fuse/fuse"
-	"github.com/hanwen/go-fuse/fuse/nodefs"
-	"github.com/hanwen/go-fuse/fuse/pathfs"
+	"github.com/GuoHaiqing/go-fuse/fuse"
+	"github.com/GuoHaiqing/go-fuse/fuse/nodefs"
+	"github.com/GuoHaiqing/go-fuse/fuse/pathfs"
 )
 
 const (

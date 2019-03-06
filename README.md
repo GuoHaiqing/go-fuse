@@ -1,7 +1,7 @@
 # GO-FUSE
 
-[![Build Status](https://travis-ci.org/hanwen/go-fuse.svg?branch=master)](https://travis-ci.org/hanwen/go-fuse)
-[![GoDoc](https://godoc.org/github.com/hanwen/go-fuse?status.svg)](https://godoc.org/github.com/hanwen/go-fuse)
+[![Build Status](https://travis-ci.org/GuoHaiqing/go-fuse.svg?branch=master)](https://travis-ci.org/GuoHaiqing/go-fuse)
+[![GoDoc](https://godoc.org/github.com/GuoHaiqing/go-fuse?status.svg)](https://godoc.org/github.com/GuoHaiqing/go-fuse)
 
 native bindings for the FUSE kernel module.
 
@@ -122,7 +122,7 @@ go-fuse works somewhat on OSX. Known limitations:
 ## Bugs
 
 Yes, probably.  Report them through
-https://github.com/hanwen/go-fuse/issues
+https://github.com/GuoHaiqing/go-fuse/issues
 
 ## Disclaimer
 

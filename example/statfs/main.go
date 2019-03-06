@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hanwen/go-fuse/benchmark"
-	"github.com/hanwen/go-fuse/fuse/nodefs"
-	"github.com/hanwen/go-fuse/fuse/pathfs"
+	"github.com/GuoHaiqing/go-fuse/benchmark"
+	"github.com/GuoHaiqing/go-fuse/fuse/nodefs"
+	"github.com/GuoHaiqing/go-fuse/fuse/pathfs"
 )
 
 func main() {
